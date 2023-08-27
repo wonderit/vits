@@ -1,4 +1,9 @@
 # How to use
+(wskim) Python == 3.10, CUDA == 11.8, PyTorch==2.0
+
+## Error deugging
+https://devohsopp.tistory.com/45
+
 (Suggestion) Python == 3.7
 ## Clone this repository
 ```sh
