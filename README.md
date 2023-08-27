@@ -10,7 +10,10 @@ git clone https://github.com/CjangCjengh/vits.git
 - Remove unnecessary imports from text/cleaners.py
 ## Install requirements
 ```sh
-pip install -r requirements.txt
+sudo apt isntall cmake
+sudo apt install g++
+
+pip install --no-build-isolation -r requirements.txt
 ```
 ## Create datasets
 ### Single speaker
@@ -43,6 +46,7 @@ python preprocess.py --text_index 2 --filelists path/to/filelist_train.txt path/
 ## Build monotonic alignment search
 ```sh
 cd monotonic_align
+mkdir monotonic_align
 python setup.py build_ext --inplace
 cd ..
 ```

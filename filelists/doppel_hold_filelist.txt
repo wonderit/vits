@@ -1,0 +1,100 @@
+assets/kss/4_4439.wav|kss_kss|너희 둘 사이에 무슨 일 있었어?
+assets/kss/4_1397.wav|kss_kss|이 마을에는 고작 다섯 가구가 살고 있습니다.
+assets/kss/4_5319.wav|kss_kss|뭐가 그렇게 우습니?
+assets/kss/4_0141.wav|kss_kss|우리 마을은 바다 옆에 있어.
+assets/kss/3_1872.wav|kss_kss|독일어 명사의 첫 글자는 늘 대문자로 쓴다는 거 기억하세요.
+assets/kss/3_3037.wav|kss_kss|그는 살인, 강도, 강간 등 흉악한 범죄를 저질렀다.
+assets/kss/4_3887.wav|kss_kss|그는 주식으로 전 재산을 날렸어요.
+assets/kss/4_1038.wav|kss_kss|이 셔츠 드라이해야 하나요?
+assets/kss/3_0508.wav|kss_kss|안전벨트 풀어도 돼요?
+assets/kss/1_0231.wav|kss_kss|그것이 사실임이 드러났다.
+assets/dmil/dahye_comb_1871.wav|dmil_dahye|이제 가도 되겠어
+assets/dmil/dahye_comb_1847.wav|dmil_dahye|여기다 하는 건가?
+assets/dmil/dahye_comb_657.wav|dmil_dahye|뭐 저 어떻게 살았죠?
+assets/dmil/dahye_comb_94.wav|dmil_dahye|저는 보라색, 핑크색 진짜 좋아하고요.
+assets/dmil/dahye_comb_2547.wav|dmil_dahye|일어나
+assets/dmil/dahye_comb_1018.wav|dmil_dahye|더울 때 삼계탕 이렇게 먹는 거거든.
+assets/dmil/dahye_comb_1074.wav|dmil_dahye|우리는 술을 못하기 때문에
+assets/dmil/dahye_comb_1085.wav|dmil_dahye|가려면 너무 오래 걸려서
+assets/dmil/dahye_comb_420.wav|dmil_dahye|하...
+assets/dmil/dahye_comb_597.wav|dmil_dahye|벚꽃 완전 예뻐
+assets/dungeon_lord_assets/AudioClip/mk_338.wav|dungeon_lord_모카|너… 너무해요…….
+assets/dungeon_lord_assets/AudioClip/mk_sb_134.wav|dungeon_lord_모카|돈의 대화가 되지 않으면 철로!!!
+assets/dungeon_lord_assets/AudioClip/mk_427.wav|dungeon_lord_모카|아뇨!!!! 벌을 받는 거예요!!!
+assets/dungeon_lord_assets/AudioClip/mk_419.wav|dungeon_lord_모카|마왕님에게…… 벌을 받아야 한다고 생각하는데요…….
+assets/dungeon_lord_assets/AudioClip/mk_sb_169.wav|dungeon_lord_모카|아… 아아… 마왕니임…….
+assets/dungeon_lord_assets/AudioClip/mk_393.wav|dungeon_lord_모카|저 오크 로드 스테이터스 못 보셨어요?!
+assets/dungeon_lord_assets/AudioClip/mk_264.wav|dungeon_lord_모카|맞아요… 우후후……. 그렇게 말씀하셨죠.
+assets/dungeon_lord_assets/AudioClip/mk_842.wav|dungeon_lord_모카|벼… 병력이 모자란 걸 어떡해요!!!!!!
+assets/dungeon_lord_assets/AudioClip/mk_182.wav|dungeon_lord_모카|마왕님~~!! 저 왔어요~~!!
+assets/dungeon_lord_assets/AudioClip/mk_133.wav|dungeon_lord_모카|던전들은 서로의 위치를 감추고 있을 텐데요?!
+assets/dungeon_lord_assets/AudioClip/my_11.wav|dungeon_lord_뮤이뮤이|나한텐.
+assets/dungeon_lord_assets/AudioClip/my_146.wav|dungeon_lord_뮤이뮤이|……부수자.
+assets/dungeon_lord_assets/AudioClip/my_sb_323.wav|dungeon_lord_뮤이뮤이|쉭! 쉭! 쉭!!!!
+assets/dungeon_lord_assets/AudioClip/my_sb_162.wav|dungeon_lord_뮤이뮤이|나랑 싸우…….
+assets/dungeon_lord_assets/AudioClip/my_sb_359.wav|dungeon_lord_뮤이뮤이|진지하게 응해줘야 해 마왕!!!
+assets/dungeon_lord_assets/AudioClip/my_234.wav|dungeon_lord_뮤이뮤이|다크 엘프와 상어의 혼혈인 난…….
+assets/dungeon_lord_assets/AudioClip/my_sb_22.wav|dungeon_lord_뮤이뮤이|대해서는…….
+assets/dungeon_lord_assets/AudioClip/my_83.wav|dungeon_lord_뮤이뮤이|그… 그…….
+assets/dungeon_lord_assets/AudioClip/my_53.wav|dungeon_lord_뮤이뮤이|난…… 이젠…….
+assets/dungeon_lord_assets/AudioClip/my_sb_46.wav|dungeon_lord_뮤이뮤이|그냥 한꺼번에 덤비라고 하고…!!!
+assets/dungeon_lord_assets/AudioClip/kd_52.wav|dungeon_lord_카다미아|그… 그대로… 손등에… 입술을…….
+assets/dungeon_lord_assets/AudioClip/kd_326.wav|dungeon_lord_카다미아|…아. 원격 업무는 계속 수행할게?
+assets/dungeon_lord_assets/AudioClip/kd_sb_62.wav|dungeon_lord_카다미아|으응~ 왜 그래에~?
+assets/dungeon_lord_assets/AudioClip/kd_182.wav|dungeon_lord_카다미아|우후후후~ 마왕~
+assets/dungeon_lord_assets/AudioClip/kd_104.wav|dungeon_lord_카다미아|유린해버리고 싶어~?
+assets/dungeon_lord_assets/AudioClip/kd_275.wav|dungeon_lord_카다미아|마왕~ 누구나 어울리는 역할이 있기 마련이야~
+assets/dungeon_lord_assets/AudioClip/kd_17.wav|dungeon_lord_카다미아|최소 조건도 달성하지 못한다면. 소환의 샘은 이곳에서 철수~
+assets/dungeon_lord_assets/AudioClip/kd_116.wav|dungeon_lord_카다미아|자비로운 아이도 싫어하지 않는데~
+assets/dungeon_lord_assets/AudioClip/kd_11.wav|dungeon_lord_카다미아|이쪽에 와서 앉으렴~~~ 뭔가 마실래~~? 응~?
+assets/dungeon_lord_assets/AudioClip/kd_sb_322.wav|dungeon_lord_카다미아|어마… 어마아… 어마아아아아…
+assets/dungeon_lord_assets/AudioClip/sn_34.wav|dungeon_lord_사나레|…….
+assets/dungeon_lord_assets/AudioClip/sn_94.wav|dungeon_lord_사나레|…!!
+assets/dungeon_lord_assets/AudioClip/sn_40.wav|dungeon_lord_사나레|아… 아…….
+assets/dungeon_lord_assets/AudioClip/sn_55.wav|dungeon_lord_사나레|“크하하하하! 라고 웃으면서 모든 걸 부숴.”
+assets/dungeon_lord_assets/AudioClip/sn_27.wav|dungeon_lord_사나레|“안 돼…….”
+assets/dungeon_lord_assets/AudioClip/sn_15.wav|dungeon_lord_사나레|“응”
+assets/dungeon_lord_assets/AudioClip/sn_66.wav|dungeon_lord_사나레|?!
+assets/dungeon_lord_assets/AudioClip/sn_108.wav|dungeon_lord_사나레|~~~!! !! ~~!!
+assets/dungeon_lord_assets/AudioClip/sn_24.wav|dungeon_lord_사나레|“왜…….”
+assets/dungeon_lord_assets/AudioClip/sn_102.wav|dungeon_lord_사나레|…….
+assets/some_assets/AudioClip/a_671.wav|some_아델라|오우 노우~! 집 앞에서 지키고 있단 말이야~! 내 집인데!
+assets/some_assets/AudioClip/a_dlc1_687.wav|some_아델라|허니도 그렇게 생각하지...? 후후...
+assets/some_assets/AudioClip/a_dlc3_46.wav|some_아델라|둘 다라길래 그냥 떠오른 거 말해 본 거야 힝...
+assets/some_assets/AudioClip/a_1358.wav|some_아델라|우리 말이야. 10년 뒤엔 뭐 하고 있을까?
+assets/some_assets/AudioClip/a_dlc3_89.wav|some_아델라|흐음, 예나도 슬슬 남자친구를 만들어야지?
+assets/some_assets/AudioClip/a_983.wav|some_아델라|마음이 진짜 흔들린단 말이야.
+assets/some_assets/AudioClip/a_512.wav|some_아델라|잠깐 몰래 빠져나와서 보이프렌드 만날 수 있을 정도로만 딱~! 바쁘면 좋겠어~!
+assets/some_assets/AudioClip/a_620.wav|some_아델라|근데 그 결과~ 어떻게 됐을~까~?
+assets/some_assets/AudioClip/a_dlc1_456.wav|some_아델라|...
+assets/some_assets/AudioClip/a_dlc2_77.wav|some_아델라|맞아 맞아~ 어차피 해야 할 일이라면 인조이하는 게 낫지~!
+assets/some_assets/AudioClip/p_dlc2_85.wav|some_수희|역시 안전이 우선이죠!
+assets/some_assets/AudioClip/p_1359.wav|some_수희|어, 언니?
+assets/some_assets/AudioClip/p_844.wav|some_수희|회사 욕을 하다가…… 자연스럽게 제 뒷담으로…….
+assets/some_assets/AudioClip/p_dlc1_2.wav|some_수희|언니! 우리 델라 정말 예쁘지 않아요?
+assets/some_assets/AudioClip/p_dlc3_194.wav|some_수희|네~ 처음엔 좀 헤매긴 했는데, 둘 다 성실해서 잘 적응하고 있어요.
+assets/some_assets/AudioClip/p_dlc1_110.wav|some_수희|에이~ 아시면서~ 트러블 파티 지방 행사 가려고요~
+assets/some_assets/AudioClip/p_955.wav|some_수희|아~ 그냥 라디오처럼 소리만 틀어놓는 거예요.
+assets/some_assets/AudioClip/p_377.wav|some_수희|선배는 친구 없으세요?
+assets/some_assets/AudioClip/p_dlc3_551.wav|some_수희|편의점에 많잖아요!
+assets/some_assets/AudioClip/p_dlc3_448.wav|some_수희|어플로 시작해서… 어플로 이어진 관계가... 정말로 괜찮은 거예요?
+assets/some_assets/AudioClip/b_520.wav|some_예나|여기 편의점…… 혹시 도둑든적 있어요?
+assets/some_assets/AudioClip/b_dlc2_599.wav|some_예나|저도 몰라요.
+assets/some_assets/AudioClip/b_dlc2_367.wav|some_예나|...그럼 지금이라도 다른 팀에 맡길까요?
+assets/some_assets/AudioClip/b_593.wav|some_예나|술은 비싼 게 맛있어!
+assets/some_assets/AudioClip/b_dlc2_693.wav|some_예나|그럼 옛날 노래 불러요! 치, 내가 같이 불러 줄게요.
+assets/some_assets/AudioClip/b_729.wav|some_예나|후후, 한달만 꾸준히 하면 익숙해 질 거예요.
+assets/some_assets/AudioClip/b_548.wav|some_예나|키워본 적이 없거든요. 그래서 보고 있으니까 그냥 신기하네요.
+assets/some_assets/AudioClip/b_dlc3_182.wav|some_예나|여기 야외 테이블 말인데요.
+assets/some_assets/AudioClip/b_205.wav|some_예나|애초에 경호 의뢰 들어오는 것도 여자가 더 많거든?
+assets/some_assets/AudioClip/b_dlc2_89.wav|some_예나|깜빡할 게 따로 있지!
+assets/some_assets/AudioClip/c_dlc2_302.wav|some_연지|이쪽으로 오세요! 빨리!!
+assets/some_assets/AudioClip/c_dlc2_66.wav|some_연지|아, 맞다. 원하시면 별도의 경호 옵션 서비스를 추가하실 수 있어요!
+assets/some_assets/AudioClip/c_dlc2_365.wav|some_연지|들어가려고 하면 어플이 계속 오류가 나고... 아하... 그런 거였어요?
+assets/some_assets/AudioClip/c_dlc2_199.wav|some_연지|네! 당연히 선배님을 보고 들어왔죠!
+assets/some_assets/AudioClip/c_dlc2_434.wav|some_연지|적어도 고장 난 이유는 알게 됐잖아요? 바로 당신 때문이었으니까.
+assets/some_assets/AudioClip/c_dlc2_33.wav|some_연지|어머, 그런가요? 인연이 있는 회사와 일하는 게 더 수월하지 않을까 싶었는데...
+assets/some_assets/AudioClip/c_dlc2_180.wav|some_연지|아하하, 네. 같은 육상부였죠.
+assets/some_assets/AudioClip/c_dlc2_279.wav|some_연지|어... 혼자 살고 있긴 해요... 
+assets/some_assets/AudioClip/c_dlc2_258.wav|some_연지|언제나 자신감 넘치고... 누굴 만나도 당당하고...
+assets/some_assets/AudioClip/c_dlc2_520.wav|some_연지|선배가 어제 다친 것도 따지고 보면 저 때문인데?
