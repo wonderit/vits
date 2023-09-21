@@ -2,7 +2,11 @@
 (wskim) Python == 3.10, CUDA == 11.8, PyTorch==2.0
 
 ## Error deugging
+librosa error 
 https://devohsopp.tistory.com/45
+cuda error
+https://gist.github.com/primus852/b6bac167509e6f352efb8a462dcf1854
+pip list --format=freeze > requirements.txt
 
 (Suggestion) Python == 3.7
 ## Clone this repository

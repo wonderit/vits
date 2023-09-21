@@ -4,7 +4,6 @@ import argparse
 import wave
 from pydub.utils import mediainfo
 from pydub import AudioSegment
-from tqdm import tqdm
 
 # Parser
 parser = argparse.ArgumentParser(description='State the code of dataset. Default is set to some.')
@@ -23,20 +22,19 @@ with open(file_name,'r') as f:
     content = f.read().split('\n')
 
 # Construct directory
-path, _, _ = content[0].split('|')
+path, _ = content[0].split('|')
 target_check = "/".join(path.split('/')[:-1]).replace(source_path,target_path,1)
 os.makedirs(target_check, exist_ok=True)
 
-for line in tqdm(content[:-1]):
-    path, _, _ = line.split('|')
+for line in content[:-1]:
+    path, _ = line.split('|')
     info = mediainfo(path)
-
+    print('info', info, path)
     frame_rate = info['sample_rate']
-    print(frame_rate, target_sr)
     if frame_rate != target_sr:
         output_file_name = "{}".format(path.replace(source_path,target_path,1))
         if not os.path.isfile(output_file_name):
-            sound = AudioSegment.from_mp3(path)
+            sound = AudioSegment.from_wav(path)
             sound = sound.set_channels(1)
             sound = sound.set_frame_rate(target_sr)
             sound.export(output_file_name, format="wav")

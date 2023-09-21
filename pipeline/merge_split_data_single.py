@@ -6,7 +6,7 @@ import random
 
 # Parser
 parser = argparse.ArgumentParser(description='State the code of dataset. Default is set to some.')
-parser.add_argument('--info',type=list, default=["elevenlabs_ko"], help='dataset names')
+parser.add_argument('--info',type=list, default=["pej"], help='dataset names')
 parser.add_argument('--validation',type=int, default=50, help='validation holdout')
 parser.add_argument('--holdout',type=int, default=50, help='testholdout')
 parser.add_argument('--merged_name',type=str, required=True)
@@ -22,7 +22,7 @@ training_buffer = []
 validation_buffer = []
 holdout_buffer = []
 
-total_actors = 0
+total_actors = 1
 MAGIC_NUMBER = 57
 CHECK = 0
 train_name = "filelists/{}_train_filelist.txt".format(output_name)
@@ -38,12 +38,12 @@ for dataset in datasets:
             content = f.read().split('\n')
             CHECK += len(content)
             for line in content:
-                path, actor, text = line.split('|')
-                actor_file_buffer[dataset][actor].append(line)
-                actors.add(actor)
+                path, text = line.split('|')
+                actor_file_buffer[dataset][0].append(line)
+                actors.add(0)
         except:
             print("Failed to read {}. If it's just a few lines that crashing gracefully".format(filename))
-
+print(len(actors))
 val_per_actor = val_total // len(actors)
 hold_per_actor = hold_total // len(actors)
 
