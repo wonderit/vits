@@ -79,3 +79,6 @@ See [MoeGoe](https://github.com/CjangCjengh/MoeGoe)
 docker run -itd --gpus all --name "Container name" -e NVIDIA_DRIVER_CAPABILITIES=compute,utility -e NVIDIA_VISIBLE_DEVICES=all "Image name"
 ```
 
+## tail log in windows 
+Get-Content .\train_elevenlabs_ko.log -Wait -Tail 10
+
